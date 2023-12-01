@@ -1,6 +1,6 @@
 # Multi Chain Explorer
 
-Live: https://explorer.base.one/
+Try it out at https://explorer.base.one
 
 ## Getting Started
 
